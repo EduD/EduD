@@ -1,16 +1,15 @@
-### Hi there 👋
+### :rocket: Hey!
 
-<!--
-**EduD/EduD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> - [website](https://bit.ly/dantasdev)
 
-Here are some ideas to get you started:
+> - [blog](https://bit.ly/blog-dantasdev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> - [twitter](https://bit.ly/twitter-dantasdev)
+
+:brazil:
+Desenvolvedor apaixonado pelo que faz, nas horas vagas adoro criar games. Atualmente trabalhando com Vue, Graphql, Typescript e Node.
+
+---------------
+
+:us:
+Developer passionate about what he does in my spare time I love creating games. Currently working with Vue, Graphql, Typescript and Node.
