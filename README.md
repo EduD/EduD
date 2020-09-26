@@ -1,15 +1,22 @@
-### :rocket: Hey!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Eduardo!
 
-> - [website](https://bit.ly/dantasdev)
+💻 Software Engineer at [SolarView](https://solarview.com.br/) <br>
+🏡 Brazilian, Based in Rio de Janeiro, RJ - but born in Pernambuco 🌅
 
-> - [blog](https://bit.ly/blog-dantasdev)
+### You can find me on
 
-> - [twitter](https://bit.ly/twitter-dantasdev)
+🐦 [Twitter](https://bit.ly/twitter-dantasdev) <br>
+⚛️ [My site](https://bit.ly/dantasdev) <br>
 
-:brazil:
-Desenvolvedor apaixonado pelo que faz, nas horas vagas adoro criar games. Atualmente trabalhando com Vue, Graphql, Typescript e Node.
+### 📕 Latest Blog Posts
 
----------------
+<!-- BLOG:START -->
+- [Iniciante: Game estilo Battle City com Phaser 3 - Parte 4 (final)](https://blog.dantasdev.com/iniciante-game-estilo-battle-city-com-phaser-3-parte-4-final/)
+- [Iniciante: Game estilo Battle City com Phaser 3 - Parte 3](https://blog.dantasdev.com/iniciante-game-estilo-battle-city-com-phaser-3-parte-3/)
+- [Iniciante: Game estilo Battle City com Phaser 3 - Parte 2](https://blog.dantasdev.com/iniciante-game-estilo-battle-city-com-phaser-3-parte-2/)
+<!-- BLOG:END -->
 
-:us:
-Developer passionate about what he does in my spare time I love creating games. Currently working with Vue, Graphql, Typescript and Node.
+- 🔭 I’m currently working on with **Node, Vue, Graphql and Typescript**
+- 🌱 I’m currently learning more about **Software Architecture**
+- 🥅 2020 Goals: Learn deeply about **mobile** and **backend** development
+- ⚡ Fun fact: I make games for over 10 years
