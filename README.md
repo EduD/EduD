@@ -16,7 +16,7 @@
 - [Iniciante: Game estilo Battle City com Phaser 3 - Parte 2](https://blog.dantasdev.com/iniciante-game-estilo-battle-city-com-phaser-3-parte-2/)
 <!-- BLOG:END -->
 
-- 🔭 I’m currently working on with **Node, Vue, Graphql and Typescript**
+- 🔭 I’m currently working with **Node, Vue, Graphql and Typescript**
 - 🌱 I’m currently learning more about **Software Architecture**
 - 🥅 2020 Goals: Learn deeply about **mobile** and **backend** development
 - ⚡ Fun fact: I make games for over 10 years
