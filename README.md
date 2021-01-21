@@ -4,8 +4,8 @@
 🏡 Brazilian, Based in Rio de Janeiro, RJ - but born in Pernambuco 🌅
 
 - 🔭 I’m currently working with **Node, Vue, Graphql and Typescript**
-- 🌱 I’m currently learning more about **Software Architecture**
-- 🥅 2020 Goals: Learn deeply about **mobile** and **backend** development
+- 🌱 I’m currently learning more about **Software Architecture** and **Design Patterns**
+- 🥅 2021 Goals: Learn deeply about **math** and **physic** for programming
 - ⚡ Fun fact: I make games for over 10 years
 
 ### You can find me on
